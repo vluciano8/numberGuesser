@@ -1,6 +1,6 @@
 # numberGuesser
 
-<p>Just another simple project made from The Modern Javascript Tutorial using Vanilla Javascript and Skeleton CSS (No juery)</p>
+<p>Just another simple project made from The Modern Javascript Tutorial using Vanilla Javascript and Skeleton CSS (No jQuery)</p>
 
 <h3>Mains</h3>
 <ul>
